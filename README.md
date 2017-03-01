@@ -1,2 +1,2 @@
-# Apprentissage-non-supervis-
-Méthode des K-means appliquées à la compression d'images
+# Apprentissage-non-supervise
+Méthode des K-means appliquée à la compression d'images
